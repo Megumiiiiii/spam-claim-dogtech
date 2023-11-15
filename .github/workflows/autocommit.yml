@@ -27,10 +27,10 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email "emailGithubMu@gmail.com"
-          git config --local user.name "usernameGithubMu"
+          git config --local user.email "nanangwibowo47@gmail.com"
+          git config --local user.name "Nanangwibow0"
           git add -A
-          
+           
           arr[0]="🟢 auto commit"
           arr[1]="🟠 auto commit"
           arr[2]="🟡 auto commit"
